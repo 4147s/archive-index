@@ -44,6 +44,7 @@ Page | Logged in? | Type | Additional details | Year
 [Live watch page](/signed_out/2016-2020/watch/live.html) | No | Archive | | 2019
 [Live chat panel](https://web.archive.org/web/20160916021846/https://www.youtube.com/live_chat?v=9QDOAIWdxQY&embed_domain=teamcoco.com) | No | Archive | Has templates included, chat messages may load on archive.org | 2016
 [Age restricted watch page](/signed_out/2016-2020/watch/age_restricted.html) | No | Archive | | 2015
+[Watch page](https://web.archive.org/web/20100810050949/https://www.youtube.com/watch?v=jgdrL0Bl_YY) | Yes | Archive | | 2010
 [Watch page](https://web.archive.org/web/20170731073223id_/https://www.youtube.com/watch?v=jNQXAC9IVRw) | No | Archive | Material subscribe button experiment | 2017
 [Watch page](https://web.archive.org/web/20200314145346/https://www.youtube.com/watch?v=fHqjNHxmB7c) | No | Archive | Kids video (no add to, share) | 2020
 [Watch page](/signed_in/2020/watch/not_owner.html) | Yes | Archive | No share button, comments loaded, originally saved with Save Page As, CSS links corrected, but not JS | 2020
