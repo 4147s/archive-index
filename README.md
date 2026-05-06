@@ -51,3 +51,22 @@ Page | Logged in? | Type | Additional details | Year
 [Subscriptions feed](https://web.archive.org/web/20190227224629id_/youtube.com/feed/subscriptions?disable_polymer=1) | Yes | Archive | List flow | 2019
 [Upload page](/signed_in/2016-2020/upload.html) | Yes | Archive | Has notifications and pickers loaded | 2018-2020 
 [Malformed Video Manager](https://web.archive.org/web/20080516065218/youtube.com/my_videos) | No? | Archive | Mangled masthead, no content | 2008
+
+## Step 1:
+Download the zip file of the repository or click [here](https://github.com/Rehike/achieve-index/archive/refs/heads/main.zip)
+
+## Step 2:
+Extract the archive to obtain a folder 'achieve index'.
+
+## Step 3
+Open your browser, click on extension icon and go to manage extensions.
+
+## Step 4
+Turn on the developers mode at top-right and click on 'Load unpacked'.
+
+## Step 5
+Finally go inside the Numerade Scraper folder and select the 'achieve index' folder.
+
+## Step 6
+Go to your required achieve index question and click on the extension button to see the solution
+
